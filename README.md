@@ -3,12 +3,6 @@
 
 w tym repozytorium znajdują się wszystkie pliki potrzebne do zbudowania klawiatur od ec.splits.
 
-legenda nazw plików 3D:
-
-nazwa_wersja(opcjonalne oznaczenie _lp oznacza low profile)_B-bottom lub T-top_L-left lub R-right
-
-np. s1_v1_lp_BR
-
 ___________________________________________________________________________________________________________________________________________________________________________
 
 
