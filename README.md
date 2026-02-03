@@ -27,11 +27,14 @@ Więcej informacji: https://get.vial.today/
 Aby dokonać zmianę rozłożenia klawiatury w programie ZMK-STUDIO należy udać się na stronę internetową(https://zmk.studio/) lub pobrać aplikację(https://zmk.studio/download)
 Program ZMK-STUDIO umożliwia dokonywanie zmian rozłożenia przycisków w wszystkich bezprzewodowych klawiaturach od ec.splits
 <img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/8df4707a-aa54-48d0-86a8-1c95c39a7790" />
+Więcej informacji: https://zmk.dev/docs/features/studio
 
 
 Aby dokonać zmiany w programie ZMK-STUDIO należy klawiaturę odblokować, aby to zrobić należy nacisnąć te przyciski(dla klawiatór s1 i s2):
 ![Screenshot_2026-02-03-17-14-23-14_e5d3893ac03954c6bb675ef2555b879b](https://github.com/user-attachments/assets/377162d4-1f21-45e6-86ef-234b47298d7b)
 dla większości klawiatur odpowiednie będą przyciski oznaczone na zielono, oznaczenie czerwone jest dla starszych egzemplarzy.
+
+
 
 Dokonywanie zmian w programie ZMK-STUDIO działa na takiej samej zasadzie jak w programie Vial(kliknięcie na dany przycisk i wybór) ale należy wyszukać daną funkcję.
 W programie ZMK-STUDIO także można wprowadzić klawiaturę w tryb bootloader, robi się to przez przypisanie funkcji "bootloader" do dowolnego przycisku.
@@ -39,4 +42,6 @@ W programie ZMK-STUDIO także można wprowadzić klawiaturę w tryb bootloader, 
 3. Tryb bootloader/ wgrywanie oprogramowania
 
 tryb bootloader oznacza tryb w którym kontroler(y) klawiatury wchodzą w tryb wgrywania oprogramowania. Są wtedy widoczne jako dyski zewnętrzne. Aby wgrać nowe oprogramowanie wystarczy przeciągnąć je na ten dysk.
+
+___________________________________________________________________________________________________________________________________________________________________________
 
