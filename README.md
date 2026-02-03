@@ -6,7 +6,7 @@ w tym repozytorium znajdują się wszystkie pliki potrzebne do zbudowania klawia
 ___________________________________________________________________________________________________________________________________________________________________________
 
 
-Poradnik korzystania z klawiatur:
+Poradnik modyfikowania rozłożenia przycisków:
 
 
 1. Dokonywanie zmian w programie VIAL(klawiatury przewodowe):
