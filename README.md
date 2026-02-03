@@ -3,7 +3,11 @@
 
 w tym repozytorium znajdują się wszystkie pliki potrzebne do zbudowania klawiatur od ec.splits.
 
+legenda nazw plików 3D:
 
+nazwa_wersja(opcjonalne oznaczenie _lp oznacza low profile)_B-bottom lub T-top_L-left lub R-right
+
+np. s1_v1_lp_BR
 Poradnik korzystania z klawiatur:
 
 
@@ -32,5 +36,7 @@ dla większości klawiatur odpowiednie będą przyciski oznaczone na zielono, oz
 Dokonywanie zmian w programie ZMK-STUDIO działa na takiej samej zasadzie jak w programie Vial(kliknięcie na dany przycisk i wybór) ale należy wyszukać daną funkcję.
 W programie ZMK-STUDIO także można wprowadzić klawiaturę w tryb bootloader, robi się to przez przypisanie funkcji "bootloader" do dowolnego przycisku.
 
+3. Tryb bootloader/ wgrywanie oprogramowania
 
+tryb bootloader oznacza tryb w którym kontroler(y) klawiatury wchodzą w tryb wgrywania oprogramowania. Są wtedy widoczne jako dyski zewnętrzne. Aby wgrać nowe oprogramowanie wystarczy przeciągnąć je na ten dysk.
 
