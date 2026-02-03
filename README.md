@@ -8,6 +8,10 @@ legenda nazw plików 3D:
 nazwa_wersja(opcjonalne oznaczenie _lp oznacza low profile)_B-bottom lub T-top_L-left lub R-right
 
 np. s1_v1_lp_BR
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
 Poradnik korzystania z klawiatur:
 
 
