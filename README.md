@@ -20,6 +20,8 @@ Program Vial może też wprowadzić klawiaturę w tryb bootloader poprzez przej�
 
 Więcej informacji: https://get.vial.today/
 
+___________________________________________________________________________________________________________________________________________________________________________
+
 2. Dokonywanie zmian w programie ZMK-STUDIO(klawiatury bezprzewodowe):
 
 Aby dokonać zmianę rozłożenia klawiatury w programie ZMK-STUDIO należy udać się na stronę internetową(https://zmk.studio/) lub pobrać aplikację(https://zmk.studio/download)
